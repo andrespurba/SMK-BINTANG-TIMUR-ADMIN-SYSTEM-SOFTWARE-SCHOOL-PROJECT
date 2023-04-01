@@ -1,0 +1,63 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\SYSTEM32\STDOLE2.TLB#OLE Automation
+Reference=*\G{642AC760-AAB4-11D0-8494-00A0C90DC8A9}#1.0#0#C:\Windows\SysWow64\MSDBRPTR.DLL#0#DataReport
+Object={86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}#2.0#0; MSCOMCT2.OCX
+Object={67397AA1-7FB1-11D0-B148-00A0C922E820}#6.0#0; MSADODC.OCX
+Object={CDE57A40-8B86-11D0-B3C6-00A0C90AEA82}#1.0#0; MSDATGRD.OCX
+Reference=*\G{6BF52A50-394A-11d3-B153-00C04F79FAA6}#1.0#0#wmp.dll#0#WindowsMediaPlayer
+Form=login.frm
+Designer=tc.dsr
+UserControl=jcbutton.ctl
+Form=menu.frm
+Form=about.frm
+Form=daftarf.frm
+Form=biayaf.frm
+Form=panggilbio.frm
+Form=metodef.frm
+Form=panggilbiaya.frm
+Form=cetakbio.frm
+Designer=tl.dsr
+Designer=seluruhbio.dsr
+Designer=t1bio.dsr
+Designer=tbiaya.dsr
+Designer=seluruhbiaya.dsr
+Form=cetakbiaya.frm
+Form=ckuitansi.frm
+Startup="menu"
+IconForm="menu"
+HelpFile=""
+ExeName32="App.exe"
+Name="Project1"
+Title="SISWA"
+VersionCompanyName="Ajax"
+MajorVer=1
+MinorVer=00
+RevisionVer=0
+Command32 = ""
+HelpContextID = "0"
+CompatibleMode = "0"
+AutoIncrementVer = 0
+ServerSupportFiles = 0
+CompilationType = 0
+OptimizationType = 0
+FavorPentiumPro(tm) = 0
+CodeViewDebugInfo = 0
+NoAliasing = 0
+BoundsCheck = 0
+OverflowCheck = -1
+FlPointCheck = 0
+FDIVCheck = 0
+UnroundedFP = 0
+StartMode = 0
+Unattended = 0
+Retained = 0
+ThreadPerObject = 0
+MaxNumberOfThreads = 1
+
+[MS Transaction Server]
+AutoRefresh = 1
+
+[VB Decompiler]
+Build = 12.0.8439.29532
+Date = 31/03/2023
+
